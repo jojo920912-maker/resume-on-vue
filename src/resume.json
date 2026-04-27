@@ -1,0 +1,73 @@
+
+{
+  "name": "楊睿哲",
+  "traits": [
+    "反應靈敏",
+    "積極認真",
+    "勇於學習"
+  ],
+
+  "ProfessionalSkill": [
+      {
+        "SkillName": "前端開發技術",
+        "Description": "透過職訓課程學習 HTML、CSS、JavaScript 基礎，並以 Vue 框架實作個人專案，持續累積開發經驗。"
+      },
+      {
+        "SkillName": "使用者思維與應變能力",
+        "Description": "具備服務業實務經驗，能從使用者角度出發思考介面需求，快速理解問題並提出解決方案。"
+      },
+      {
+        "SkillName": "溝通協調與問題排除",
+        "Description":"具備跨部門溝通與問題排除經驗，能在不同情境下快速理解需求，配合團隊執行任務。"
+      }
+    ],
+
+  "Education":[
+    {
+      "SchoolName": "崑山科技大學",
+      "Department": "全球商務與行銷系"
+    },
+    {
+      "SchoolName": "旗山農工",
+      "Department": "生物產業機電科"
+    }
+  ],
+
+  "Certifications":[
+    {
+      "CertificationsName": "金融市場常識與職業道德"
+    },
+    {
+      "CertificationsName": "兩岸暨東協經貿商務人才認證"
+    },
+    {
+      "CertificationsName": "優質企業安全供應鏈(AEO)專責人員"
+    },
+
+    {
+      "CertificationsName": "丙級機電整合技術士"
+    }
+  ],
+
+  "WorkExperience": [
+    {
+      "jobTitle": "禮賓接待員",
+      "company": "福容大飯店股份有限公司墾丁分公司",
+      "duration": "110年8月~114年2月",
+      "responsibilities": [
+        "協助客人將行李從大廳或車輛運送到房間，並確保行李準確送達。",
+        "根據需求，協助預訂交通工具或處理其他特別需求。"
+      ]
+    },
+    {
+      "jobTitle": "助理專員",
+      "company": "義大開發股份有限公司",
+      "duration": "114年4月~114年7月",
+      "responsibilities": [
+        "規劃並執行實體活動專案，協助現場佈置與活動流程統籌。",
+        "撰寫LINE EDM主旨與文案，搭配時令節慶與品牌需求進行創意發想。",
+        "協助簡易行政作業與專案支援，提升整體企劃執行效率。"
+      ]
+    }
+    ]
+}
