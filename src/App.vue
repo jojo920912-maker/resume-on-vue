@@ -140,14 +140,6 @@ const myResume = ref(resume)
 </template>
 
 <style scoped>
-html,
-body {
-  font-family: "Lato", "Noto Sans TC", sans-serif;
-  margin: 0;
-  padding: 0;
-  color: #333333;
-  background-color: #f6f7f8;
-}
 
 /* Here is header */
 header {
@@ -301,4 +293,18 @@ hr {
     width: 100%;
   }
 }
+</style>
+
+<style>
+
+html,
+body {
+  font-family: "Lato", "Noto Sans TC", sans-serif;
+  margin: 0;
+  padding: 0;
+  color: #333333;
+  background-color: #f6f7f8;
+}
+
+
 </style>
